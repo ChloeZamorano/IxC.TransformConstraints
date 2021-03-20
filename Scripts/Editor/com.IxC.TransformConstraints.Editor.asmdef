@@ -1,0 +1,18 @@
+{
+    "name": "com.IxC.TransformConstraints.Editor",
+    "rootNamespace": "IxC.TransformConstraints",
+    "references": [
+        "GUID:ad1d70c205473d447a2683c780a46d46"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
