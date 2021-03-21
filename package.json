@@ -1,6 +1,6 @@
 {
     "name":"com.ixc.constraints",
     "displayName":"IxC Transform Constraints",
-    "version":"1.0.0",
+    "version":"1.0.0-preview.1",
     "Unity":"2018.3"
 }
